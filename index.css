@@ -1,0 +1,30 @@
+body
+{
+	font-family: 'Trebuchet MS';
+	background-image: url(https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1068.jpg?w=2000);
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+h1
+{
+	color: goldenrod;
+}
+
+div
+{
+	display: flex;
+	flex-direction: column;
+}
+
+button
+{
+	font-weight: bold;
+	color: darkgreen;
+	background-color: goldenrod;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 150px;
+}
